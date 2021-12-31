@@ -1,1 +1,2 @@
-# earpong-responsive
+# earpong
+Ear-training app
